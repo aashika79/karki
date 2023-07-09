@@ -1,0 +1,10 @@
+.slide-image{
+    height: 550px;
+    width: 400px;
+}
+.roundimage{
+    border-radius: 50%;
+}
+.canImag{
+    width: 600px;
+}

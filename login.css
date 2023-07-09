@@ -1,0 +1,9 @@
+.container{
+    height: 60px;
+    display: flex;
+    border: 2px black;
+
+}
+h3{
+    text-align: center;
+}
